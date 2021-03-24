@@ -1,1 +1,7 @@
-Data Analysis project
+Objective of the Study
+
+The COVID-19 virus has affected 11.4 Million Indian Residents till now (As of 17th March 2021). Even though, currently, the infection rate and the mortality rate are low, the virus has managed to trickle into the remotest parts of the country. This unprecedented calamity has forced the policymakers to make some very difficult decisions. Before the vaccine tests and its consequent rollout to the residents, the government could only enforce lockdown and quarantine measures to contain the virus. Also, despite the lockdowns being effective they were never a long-term solution owing to the economic costs incurred.
+
+In June 2020, the economy started shoeing some signs of reopening. At that time, India had 265K cases and by August i.e., Unlock 4.0, India had 1.75 Million Cases. Now, although the reopening phases have eased the conduct of businesses and have managed to bring the economy of the recovery track, this has come at the cost of increased interaction of people. Due to this, the virus transmission, has beyond doubt, deepened significantly.
+
+The sudden spikes in the cases in different states can be attributed to their degree of relaxed restrictions. In the purview of this project, we propose to utilize the Google Community Mobility Reports, to analyze the nature of correlation between mobility indices and the consequent spread in the COVID-19 virus. Post that analysis, we plan to understand the intricacies of the correlation by attempting to attribute the significant deviations to the relevant social distancing policies as implemented by the respective state governments and enforcement by local law enforcement.
